@@ -7,6 +7,8 @@ C:\Projetos\C#\FilmesAPI\Filmes Api\Filmes Api\bin\Debug\net5.0\Filmes Api.runti
 C:\Projetos\C#\FilmesAPI\Filmes Api\Filmes Api\bin\Debug\net5.0\Filmes Api.dll
 C:\Projetos\C#\FilmesAPI\Filmes Api\Filmes Api\bin\Debug\net5.0\ref\Filmes Api.dll
 C:\Projetos\C#\FilmesAPI\Filmes Api\Filmes Api\bin\Debug\net5.0\Filmes Api.pdb
+C:\Projetos\C#\FilmesAPI\Filmes Api\Filmes Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Projetos\C#\FilmesAPI\Filmes Api\Filmes Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Projetos\C#\FilmesAPI\Filmes Api\Filmes Api\bin\Debug\net5.0\BouncyCastle.Crypto.dll
 C:\Projetos\C#\FilmesAPI\Filmes Api\Filmes Api\bin\Debug\net5.0\Google.Protobuf.dll
 C:\Projetos\C#\FilmesAPI\Filmes Api\Filmes Api\bin\Debug\net5.0\Humanizer.dll
