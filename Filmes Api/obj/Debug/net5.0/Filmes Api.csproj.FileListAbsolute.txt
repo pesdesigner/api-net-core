@@ -47,3 +47,4 @@ C:\Projetos\C#\FilmesAPI\Filmes Api\Filmes Api\obj\Debug\net5.0\Filmes Api.dll
 C:\Projetos\C#\FilmesAPI\Filmes Api\Filmes Api\obj\Debug\net5.0\ref\Filmes Api.dll
 C:\Projetos\C#\FilmesAPI\Filmes Api\Filmes Api\obj\Debug\net5.0\Filmes Api.pdb
 C:\Projetos\C#\FilmesAPI\Filmes Api\Filmes Api\obj\Debug\net5.0\Filmes Api.genruntimeconfig.cache
+C:\Projetos\C#\FilmesAPI\Filmes Api\Filmes Api\obj\Debug\net5.0\Filmes Api.csproj.AssemblyReference.cache

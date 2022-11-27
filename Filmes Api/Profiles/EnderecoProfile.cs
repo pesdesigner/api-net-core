@@ -8,13 +8,13 @@ using System.Threading.Tasks;
 
 namespace Filmes_Api.Profiles
 {
-    public class FilmesProfile : Profile
+    public class EnderecoProfile : Profile
     {
-        public FilmesProfile()
+        public EnderecoProfile()
         {
-            CreateMap<CreateFilmeDto, Filme>();
-            CreateMap<Filme, ReadFilmeDto>();
-            CreateMap<UpdateFilmeDto, Filme>();
+            CreateMap<CreateEnderecoDto, Endereco>();
+            CreateMap<Endereco, ReadEnderecoDto>();
+            CreateMap<UpdateEnderecoDto, Endereco>();
         }
     }
 }

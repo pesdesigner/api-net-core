@@ -3,10 +3,7 @@ using Filmes_Api.Data;
 using Filmes_Api.Data.Dtos;
 using Filmes_Api.Models;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace Filmes_Api.Controllers
 {
@@ -14,10 +11,10 @@ namespace Filmes_Api.Controllers
     [Route("[controller]")]
     public class FilmeController : ControllerBase
     {
-        private FilmeContext _context;
+        private AppDbContext _context;
         private IMapper _mapper;
 
-        public FilmeController(FilmeContext context, IMapper mapper)
+        public FilmeController(AppDbContext context, IMapper mapper)
         {
             _context = context;
             _mapper = mapper;
