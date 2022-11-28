@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace Filmes_Api.Models
 {
@@ -12,5 +13,7 @@ namespace Filmes_Api.Models
         [Required(ErrorMessage = "Bairro é obrigatório")]
         public string Bairro { get; set; }
         public int Numero { get; set; }
+        [JsonIgnore]
+        public virtual Cinema Cinema { get; set; }
     }
 }
